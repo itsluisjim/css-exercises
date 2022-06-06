@@ -1,0 +1,11 @@
+.blackPalette, .yellowPalette {
+    font-size: 28px;
+    font-family: helvetica,'Times New Roman',sans-serif;
+}
+.blackPalette {
+    background-color: black;
+    color: white;
+}
+.yellowPalette {
+    background-color: yellow;
+}
